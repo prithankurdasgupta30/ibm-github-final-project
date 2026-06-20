@@ -1,6 +1,6 @@
 # Product Catalog API
 
-![Build Status](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/actions/workflows/workflow.yml/badge.svg)
+![Build Status](https://github.com/prithankurdasgupta30/devops-capstone-project/actions/workflows/workflow.yml/badge.svg)
 
 ## Project Overview
 
